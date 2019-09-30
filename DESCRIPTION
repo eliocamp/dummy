@@ -10,7 +10,7 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: GPL-3
 Encoding: UTF-8
-Language: en
+Language: en, es
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
